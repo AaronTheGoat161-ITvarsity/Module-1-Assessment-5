@@ -26,16 +26,4 @@ h2, h4{
 #menu-bar a:hover{
      color: #5077bd;
 }
-.container {
-    position: relative;
-    font-weight: 800;
-    text-align: center;
-    color: rgb(20, 94, 112);
-  }
-  .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
   
